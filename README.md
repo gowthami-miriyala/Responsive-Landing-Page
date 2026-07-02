@@ -1,5 +1,3 @@
-# Responsive-Landing-Page
-
 #NAME : Miriyala Gowthami
 
 #DOMAIN : Information Technology
